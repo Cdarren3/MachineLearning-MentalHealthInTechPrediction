@@ -3,6 +3,12 @@
 This project aims to find out the predictability of whether a survey respondent has attended a mental health treatment by various machine learning models.
 
 
+## Inspiration(TBC)
+Some questions worth exploring:
+
+What are the strongest predictors of mental health illness or certain attitudes towards mental health in the workplace?
+
+
 ## Business Values
 
 * Identify the needs for mental health resources
@@ -25,23 +31,10 @@ Details of the dataset could be found in <a href="https://www.kaggle.com/osmi/me
 ## Preprocessing
 
 * Outlier Handling
+
 * Impute Missing Values
+
 * Data Cleaning
-
-
- Drop Risk_mm
- 
- Inpute Missing Values
- 
- Drop All the Categorical Volumns
- 
- Filter Out Common Columns For Both Dataset
- 
- Split Train/Test Data
- 
- Remove Outlier
- 
- Feature Scaling
 
 
 ## Models Evaluation
@@ -70,7 +63,3 @@ Details of the dataset could be found in <a href="https://www.kaggle.com/osmi/me
 
 
 
-## Inspiration
-Some questions worth exploring:
-
-What are the strongest predictors of mental health illness or certain attitudes towards mental health in the workplace?
