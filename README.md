@@ -28,6 +28,21 @@ Details of the dataset could be found in <a href="https://www.kaggle.com/osmi/me
 ## Models Evaluation
 
 ## Conclusion & Future Improvement
+Able to predict whether the respondent have sought for medical treatment for mental health with the highest accuractely of XX.XX%
+Difficult to predict whether respondents have needs for mental health support, due to the setting of the questionnaire and the privacy issues come along
+
+
+####In the future :
+
+-Retain the states data for respondent's geographical location prediction
+
+-Further analysis on comments using NLP technique
+
+-Try other boosting models which might yield a more accurate prediction
+
+-Try unsupervised model like t-SNE for cluster identification
+
+
 
 
 ## Inspiration
