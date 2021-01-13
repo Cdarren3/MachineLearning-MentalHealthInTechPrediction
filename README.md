@@ -27,13 +27,19 @@ Details of the dataset could be found in <a href="https://www.kaggle.com/osmi/me
 * Data Cleaning
 
 
-* Drop Risk_mm
-* Inpute Missing Values
-* Drop All the Categorical Volumns
-* Filter Out Common Columns For Both Dataset
-* Split Train/Test Data
-* Remove Outlier
-* Feature Scaling
+ Drop Risk_mm
+ 
+ Inpute Missing Values
+ 
+ Drop All the Categorical Volumns
+ 
+ Filter Out Common Columns For Both Dataset
+ 
+ Split Train/Test Data
+ 
+ Remove Outlier
+ 
+ Feature Scaling
 
 
 ## Models Evaluation
