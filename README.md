@@ -2,7 +2,7 @@
 
 This project aims to find out the predictability of whether a survey respondent has attended a mental health treatment by various machine learning models 
 
-### Business Values
+## Business Values
 
 -Identify the needs for mental health resources
 
@@ -20,7 +20,7 @@ This data comes from OSMI Institution and from data description we know that thi
 
 Details of the dataset could be found in <a href="https://www.kaggle.com/osmi/mental-health-in-tech-survey">Here</a>
 
-### Inspiration
+## Inspiration
 Some questions worth exploring:
 
 What are the strongest predictors of mental health illness or certain attitudes towards mental health in the workplace?
