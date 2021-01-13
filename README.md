@@ -51,8 +51,10 @@ Details of the dataset could be found in <a href="https://www.kaggle.com/osmi/me
 
 
 ## Takeaway
-Able to predict whether the respondent have sought for medical treatment for mental health with the highest accuracy of XX.XX%
-Difficult to predict whether respondents currently have needs for mental health support, due to the setting of the questionnaire and the privacy issues come along
+
+* Able to predict whether the respondent have sought for medical treatment for mental health with the highest accuracy of XX.XX%
+
+* Difficult to predict whether respondents currently have needs for mental health support, due to the setting of the questionnaire and the privacy issues come along
 
 
 ## Future Improvement
