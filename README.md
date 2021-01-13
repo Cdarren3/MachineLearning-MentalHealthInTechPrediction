@@ -22,7 +22,17 @@ Details of the dataset could be found in <a href="https://www.kaggle.com/osmi/me
 
 ## Preprocessing
 
-
+Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+Drop Risk_mm
+Inpute Missing Values
+Drop All the Categorical Volumns
+Filter Out Common Columns For Both Dataset
+Split Train/Test Data
+Remove Outlier
+Feature Scaling
 
 
 ## Models Evaluation
