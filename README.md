@@ -20,6 +20,16 @@ This data comes from OSMI Institution and from data description we know that thi
 
 Details of the dataset could be found in <a href="https://www.kaggle.com/osmi/mental-health-in-tech-survey">Here</a>
 
+## Preprocessing
+
+
+
+
+## Models Evaluation
+
+## Conclusion & Future Improvement
+
+
 ## Inspiration
 Some questions worth exploring:
 
