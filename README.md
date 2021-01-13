@@ -1,4 +1,4 @@
-# Machine Learning Project_Mental Health in Tech Survey
+# Machine Learning Project Mental Health in Tech Survey
 
 This project aims to find out the predictability of whether a survey respondent has attended a mental health treatment by various machine learning models 
 
