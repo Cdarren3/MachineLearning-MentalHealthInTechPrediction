@@ -45,6 +45,7 @@ Details of the dataset could be found in <a href="https://www.kaggle.com/osmi/me
 ## Models Evaluation
 
 ![alt text](https://github.com/deschiu/Bootcamp-Colab-Showcase-Project-2-ML-Project-Mental-Health-in-Tech/blob/master/images/Mental%20Health%20in%20Tech.png)
+![alt text](https://github.com/deschiu/Bootcamp-Colab-Showcase-Project-2-ML-Project-Mental-Health-in-Tech/blob/master/images/Mental%20Health%20in%20Tech_2.png)
 
 ## Conclusion & Future Improvement
 Able to predict whether the respondent have sought for medical treatment for mental health with the highest accuractely of XX.XX%
