@@ -1,8 +1,13 @@
 # Machine Learning Project_Mental Health in Tech Survey
 
-This project aims to find out the predictability of whether a survey respondent has attended a mental health treatment by machine learning models 
+This project aims to find out the predictability of whether a survey respondent has attended a mental health treatment by various machine learning models 
 
 ### Business Values
+Identify the needs for mental health resources
+Satisfaction assessment criteria among Employees 
+Re-evaluate the health insurance coverage
+Develop a more effective diagnosis protocol
+
 
 
 ### About the Dataset
