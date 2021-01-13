@@ -14,7 +14,7 @@ This project aims to find out the predictability of whether a survey respondent 
 
 
 
-### About the Dataset
+## About the Dataset
 
 This data comes from OSMI Institution and from data description we know that this dataset is from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace.
 
