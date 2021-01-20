@@ -3,10 +3,6 @@
 This project aims to find out the predictability of whether a survey respondent has attended a mental health treatment by various machine learning models.
 
 
-## Inspiration(TBC)
-Some questions worth exploring:
-
-What are the strongest predictors of mental health illness or certain attitudes towards mental health in the workplace?
 
 
 ## Business Values
